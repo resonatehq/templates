@@ -1,3 +1,6 @@
 {
-  "py": {"href": "https://github.com/resonatehq/scaffold-py/archive/refs/heads/main.zip", "desc": "..."}
+  "py": {
+    "href": "https://github.com/resonatehq/scaffold-py/archive/refs/heads/main.zip",
+    "desc": "simple resonate python app"
+  }
 }
