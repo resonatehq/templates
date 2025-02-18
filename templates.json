@@ -2,5 +2,9 @@
   "py": {
     "href": "https://github.com/resonatehq/scaffold-py/archive/refs/heads/main.zip",
     "desc": "A bare bones python starter application."
+  },
+  "two-step-lfi-workflow-py": {
+    "href": "https://github.com/resonatehq/scaffold-two-step-lfi-workflow-py/archive/refs/heads/main.zip",
+    "desc": "A two step local function invocation workflow using the Python SDK"
   }
 }
