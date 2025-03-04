@@ -1,10 +1,10 @@
 {
-  "py": {
-    "href": "https://github.com/resonatehq/scaffold-py/archive/refs/heads/main.zip",
-    "desc": "A bare bones python starter application."
+  "basic-workflow-py": {
+    "href": "https://github.com/resonatehq/template-basic-workflow-py/archive/refs/heads/main.zip",
+    "desc": "A single function Resonate function to get you started with the Python SDK."
   },
-  "two-step-lfi-workflow-py": {
-    "href": "https://github.com/resonatehq/scaffold-two-step-lfi-workflow-py/archive/refs/heads/main.zip",
+  "lfi-workflow-py": {
+    "href": "https://github.com/resonatehq/template-lfi-workflow-py/archive/refs/heads/main.zip",
     "desc": "A two step local function invocation workflow using the Python SDK"
   }
 }
