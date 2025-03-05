@@ -1,7 +1,7 @@
 {
   "basic-workflow-py": {
     "href": "https://github.com/resonatehq/template-basic-workflow-py/archive/refs/heads/main.zip",
-    "desc": "A single function Resonate function to get you started with the Python SDK."
+    "desc": "A single Resonate function to get you started with the Python SDK."
   },
   "lfi-workflow-py": {
     "href": "https://github.com/resonatehq/template-lfi-workflow-py/archive/refs/heads/main.zip",
