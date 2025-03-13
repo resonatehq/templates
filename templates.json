@@ -9,5 +9,5 @@
   },
   "rfi-workflow-py": {
     "href": "https://github.com/resonatehq/template-rfi-workflow-py/archive/refs/heads/main.zip",
-    "desc": "A two step remote function invocation workflow using the Python SDK"
+    "desc": "A two step remote function invocation workflow using the Python SDK."
 }
