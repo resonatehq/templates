@@ -1,17 +1,17 @@
 {
   "minimal-resonate-script-py": {
     "href": "https://github.com/resonatehq/template-basic-workflow-py/archive/refs/heads/main.zip",
-    "desc": "Python SDK template.\n\tThis template starts you off with just a single function that is invoked locally.\n\tThis template doesn't require a Resonate Server — promises are stored in local memory.",
+    "desc": "Python SDK template.\n\tThis template starts you off with just a single function that is invoked locally.\n\tThis template doesn't require a Resonate Server\n\tPromises are stored in local memory.",
     "lang": "python"
   },
   "local-run-workflow-py": {
     "href": "https://github.com/resonatehq/template-lfi-workflow-py/archive/refs/heads/main.zip",
-    "desc": "Python SDK template.\n\tThis template starts you off with a local two step workflow.\n\tEach step is defined and invoked locally.\n\tThis template doesn't require a Resonate Server — promises are stored in local memory",
+    "desc": "Python SDK template.\n\tThis template starts you off with a local two step workflow.\n\tEach step is defined and invoked locally.\n\tThis template doesn't require a Resonate Server.\n\tPromises are stored in local memory",
     "lang": "python"
   },
   "remote-rpc-workflow-py": {
     "href": "https://github.com/resonatehq/template-rfi-workflow-py/archive/refs/heads/main.zip",
-    "desc": "Python SDK template.\n\tThis template starts you off with a remote two step workflow.\n\tEach step is defined and invoked remotely.\n\tThis template requires a running Resonate Server to work. — promises are stored, and messages are sourced remotely",
+    "desc": "Python SDK template.\n\tThis template starts you off with a remote two step workflow.\n\tEach step is defined and invoked remotely.\n\tThis template requires a running Resonate Server to work.\n\tPromises are stored, and messages are sourced remotely",
     "lang": "python"
   }
 }
