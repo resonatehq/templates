@@ -34,5 +34,11 @@
     "href": "https://github.com/resonatehq-examples/example-kafka-worker-py/archive/refs/heads/main.zip",
     "desc": "This template gives you a distributed-worker fleet that consume messages from a Redpanda topic.",
     "lang": "python"
+  },
+  "worker-load-balancing-ts": {
+    "title": "Worker Load Balancing TypeScript SDK",
+    "href": "https://github.com/resonatehq-examples/example-load-balancing-ts/archive/refs/heads/main.zip",
+    "desc": "This template starts you off with a fleet of workers that are automatically load balanced and recover from failures.",
+    "lang": "typescript"
   }
 }
