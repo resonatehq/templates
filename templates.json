@@ -1,8 +1,13 @@
 {
-  "Classic Hello World! Python SDK": {
+  "classic-hello-world-python-sdk": {
     "href": "https://github.com/resonatehq-examples/example-hello-world-py/archive/refs/heads/main.zip",
-    "desc": "Python SDK template.\n\tGet started with a classic Hello World! example.\n\tThis example executes foo(), bar(), and baz() in an await chain pattern.\n\tEach function appends to the greeting.\n\tThis example does NOT require the use of a Resonate Server.",
+    "desc": "Get started with a classic Hello World! example.\n\tThis example executes foo(), bar(), and baz() in an await chain pattern.\n\tEach function appends to the greeting.\n\tThis example does NOT require the use of a Resonate Server.",
     "lang": "python"
+  },
+  "recursive-factorial-typescript-sdk": {
+    "href": "https://github.com/resonatehq-examples/example-recursive-factorial-ts/archive/refs/heads/main.zip",
+    "desc": "This distributed factorial computation showcases the programming model that Resonate prides itself.\n\tOnce you see what is possible, who knows where it will lead you!",
+    "lang": "typescript"
   },
   "minimal-resonate-script-py": {
     "href": "https://github.com/resonatehq/template-basic-workflow-py/archive/refs/heads/main.zip",
