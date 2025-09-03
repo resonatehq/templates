@@ -1,25 +1,30 @@
 {
   "classic-hello-world-python-sdk": {
+    "name": "Classic Hello World! Python SDK",
     "href": "https://github.com/resonatehq-examples/example-hello-world-py/archive/refs/heads/main.zip",
     "desc": "Get started with a classic Hello World! example.\n\tThis example executes foo(), bar(), and baz() in an await chain pattern.\n\tEach function appends to the greeting.\n\tThis example does NOT require the use of a Resonate Server.",
     "lang": "python"
   },
   "recursive-factorial-typescript-sdk": {
+    "name": "Recursive Factorial TypeScript SDK",
     "href": "https://github.com/resonatehq-examples/example-recursive-factorial-ts/archive/refs/heads/main.zip",
     "desc": "This distributed factorial computation showcases the programming model that Resonate prides itself.\n\tOnce you see what is possible, who knows where it will lead you!",
     "lang": "typescript"
   },
   "minimal-resonate-script-py": {
+    "name": "Minimal Resonate Script Python SDK",
     "href": "https://github.com/resonatehq/template-basic-workflow-py/archive/refs/heads/main.zip",
     "desc": "Python SDK template.\n\tThis template starts you off with just a single function that is invoked locally.\n\tThis template doesn't require a Resonate Server\n\tPromises are stored in local memory.",
     "lang": "python"
   },
   "local-run-workflow-py": {
+    "name": "Local Run Workflow Python SDK",
     "href": "https://github.com/resonatehq/template-lfi-workflow-py/archive/refs/heads/main.zip",
     "desc": "Python SDK template.\n\tThis template starts you off with a local two step workflow.\n\tEach step is defined and invoked locally.\n\tThis template doesn't require a Resonate Server.\n\tPromises are stored in local memory",
     "lang": "python"
   },
   "remote-rpc-workflow-py": {
+    "name": "Remote RPC Workflow Python SDK",
     "href": "https://github.com/resonatehq/template-rfi-workflow-py/archive/refs/heads/main.zip",
     "desc": "Python SDK template.\n\tThis template starts you off with a remote two step workflow.\n\tEach step is defined and invoked remotely.\n\tThis template requires a running Resonate Server to work.\n\tPromises are stored, and messages are sourced remotely",
     "lang": "python"
