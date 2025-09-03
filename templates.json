@@ -28,5 +28,11 @@
     "href": "https://github.com/resonatehq/template-rfi-workflow-py/archive/refs/heads/main.zip",
     "desc": "Python SDK template.\n\tThis template starts you off with a remote two step workflow.\n\tEach step is defined and invoked remotely.\n\tThis template requires a running Resonate Server to work.\n\tPromises are stored, and messages are sourced remotely",
     "lang": "python"
+  },
+  "kafka-worker-python-sdk": {
+    "title": "Dead Simple Kafka Worker Python SDK",
+    "href": "https://github.com/resonatehq-examples/example-kafka-worker-py/archive/refs/heads/main.zip",
+    "desc": "This template gives you a distributed-worker fleet that consume messages from a Redpanda topic.",
+    "lang": "python"
   }
 }
