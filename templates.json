@@ -11,22 +11,10 @@
     "desc": "This distributed factorial computation showcases the programming model that Resonate prides itself.\n\tOnce you see what is possible, who knows where it will lead you!",
     "lang": "typescript"
   },
-  "minimal-resonate-script-py": {
-    "title": "Minimal Resonate Script Python SDK",
-    "href": "https://github.com/resonatehq/template-basic-workflow-py/archive/refs/heads/main.zip",
-    "desc": "Python SDK template.\n\tThis template starts you off with just a single function that is invoked locally.\n\tThis template doesn't require a Resonate Server\n\tPromises are stored in local memory.",
-    "lang": "python"
-  },
-  "local-run-workflow-py": {
-    "title": "Local Run Workflow Python SDK",
-    "href": "https://github.com/resonatehq/template-lfi-workflow-py/archive/refs/heads/main.zip",
-    "desc": "Python SDK template.\n\tThis template starts you off with a local two step workflow.\n\tEach step is defined and invoked locally.\n\tThis template doesn't require a Resonate Server.\n\tPromises are stored in local memory",
-    "lang": "python"
-  },
-  "remote-rpc-workflow-py": {
-    "title": "Remote RPC Workflow Python SDK",
-    "href": "https://github.com/resonatehq/template-rfi-workflow-py/archive/refs/heads/main.zip",
-    "desc": "Python SDK template.\n\tThis template starts you off with a remote two step workflow.\n\tEach step is defined and invoked remotely.\n\tThis template requires a running Resonate Server to work.\n\tPromises are stored, and messages are sourced remotely",
+  "recursive-factorial-python-sdk": {
+    "title": "Recursive Factorial Python SDK",
+    "href": "https://github.com/resonatehq-examples/example-recursive-factorial-py/archive/refs/heads/main.zip",
+    "desc": "This distributed factorial computation showcases the programming model that Resonate prides itself.\n\tOnce you see what is possible, who knows where it will lead you!",
     "lang": "python"
   },
   "kafka-worker-python-sdk": {
@@ -35,28 +23,34 @@
     "desc": "This template gives you a distributed-worker fleet that consume messages from a Redpanda topic.",
     "lang": "python"
   },
-  "worker-load-balancing-ts": {
+  "worker-load-balancing-typesript-sdk": {
     "title": "Worker Load Balancing TypeScript SDK",
     "href": "https://github.com/resonatehq-examples/example-load-balancing-ts/archive/refs/heads/main.zip",
     "desc": "This template starts you off with a fleet of workers that are automatically load balanced and recover from failures.",
     "lang": "typescript"
   },
-  "worker-load-balancing-py": {
+  "worker-load-balancing-python-sdk": {
     "title": "Worker Load Balancing Python SDK",
     "href": "https://github.com/resonatehq-examples/example-load-balancing-py/archive/refs/heads/main.zip",
     "desc": "This template starts you off with a fleet of workers that are automatically load balanced and recover from failures.",
     "lang": "python"
   },
-  "human-in-the-loop-ts": {
+  "human-in-the-loop-typescript-sdk": {
     "title": "Human-In-The Loop TypeScript SDK",
     "href": "https://github.com/resonatehq-examples/example-human-in-the-loop-ts/archive/refs/heads/main.zip",
     "desc": "This template gets you started with a workflow that blocks, waiting for a human to click a link in an email.",
     "lang": "typescript"
   },
-  "human-in-the-loop-py": {
+  "human-in-the-loop-python-sdk": {
     "title": "Human-In-The Loop Python SDK",
     "href": "https://github.com/resonatehq-examples/example-human-in-the-loop-py/archive/refs/heads/main.zip",
     "desc": "This template gets you started with a workflow that blocks, waiting for a human to click a link in an email.",
+    "lang": "python"
+  },
+  "website-summarization-agent-python-sdk": {
+    "title": "Website Summarization Agent Python SDK",
+    "href": "https://github.com/resonatehq-examples/example-website-summarization-agent-py/archive/refs/heads/main.zip",
+    "desc": "This template starts you off with a workflow decked out with two failure prone steps, a human-in-the-loop, a non-retriable error, and result caching by ID.",
     "lang": "python"
   }
 }
