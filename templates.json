@@ -52,5 +52,17 @@
     "href": "https://github.com/resonatehq-examples/example-website-summarization-agent-py/archive/refs/heads/main.zip",
     "desc": "This template starts you off with a workflow decked out with two failure prone steps, a human-in-the-loop, a non-retriable error, and result caching by ID.",
     "lang": "python"
+  },
+  "durable-sleep-python-sdk": {
+    "title": "Durable Sleep Python SDK",
+    "href": "https://github.com/resonatehq-examples/example-durable-sleep-py/archive/refs/heads/main.zip",
+    "desc": "This template demonstrates a durable sleep pattern in a workflow.",
+    "lang": "python"
+  },
+  "durable-sleep-typescript-sdk": {
+    "title": "Durable Sleep TypeScript SDK",
+    "href": "https://github.com/resonatehq-examples/example-durable-sleep-ts/archive/refs/heads/main.zip",
+    "desc": "This template demonstrates a durable sleep pattern in a workflow.",
+    "lang": "typescript"
   }
 }
