@@ -5,6 +5,12 @@
     "desc": "Get started with a classic Hello World! example.\n\tThis example executes foo(), bar(), and baz() in an await chain pattern.\n\tEach function appends to the greeting.\n\tThis example does NOT require the use of a Resonate Server.",
     "lang": "python"
   },
+  "classic-hello-world-typescript-sdk": {
+    "title": "Classic Hello World! TypeScript SDK",
+    "href": "https://github.com/resonatehq-examples/example-hello-world-ts/archive/refs/heads/main.zip",
+    "desc": "Get started with a classic Hello World! example.\n\tThis example executes foo(), bar(), and baz() in an await chain pattern.\n\tEach function appends to the greeting.\n\tThis example does NOT require the use of a Resonate Server.",
+    "lang": "typescript"
+  },
   "recursive-factorial-typescript-sdk": {
     "title": "Recursive Factorial TypeScript SDK",
     "href": "https://github.com/resonatehq-examples/example-recursive-factorial-ts/archive/refs/heads/main.zip",
